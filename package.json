@@ -1,10 +1,10 @@
 {
-  "name": "derfan",
-  "author": "b.medvedev",
+  "name": "lashkul",
+  "author": "o.lashkul",
   "description": "Web Developer Build",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Derfan/Gulp-Builder"
+    "url": "https://github.com/helga1507/Blockchain-Conference"
   },
   "version": "1.0.0",
   "license": "ISC",
