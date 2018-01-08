@@ -32,7 +32,7 @@ Thumbs.db
 .svn
 dist
 build
-source/php
+php
 
 # Node.JS
 node_modules
